@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about: statistical programming (Stata; R); data analysis; evaluation design.
+- 💬 Ask me about: statistical programming (Stata, R); data analysis; evaluation design.
 - 🌱 I’m currently learning advanced functionalities of RStudio.
 - :people_holding_hands: I’m looking to collaborate on projects developing cutting-edge analyses of education data; & applying data science methods to agriculture and natural resource management.
 - 🛠️ I’m currently working on developing my professional portfolio with Quarto & building a website for my farm.
